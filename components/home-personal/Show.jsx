@@ -1,5 +1,3 @@
-import React from "react";
-
 function Show() {
   return (
     <section className="respo section-padding main-bg bord-bottom-grd">
@@ -17,7 +15,7 @@ function Show() {
               <p>
                 В 2020 году успешно закончил{" "}
                 <span className="main-color">Российский университет дружбы народов</span> по
-                направлению "Прикладная информатика"
+                направлению &quot;Прикладная информатика&quot;
               </p>
             </div>
           </div>

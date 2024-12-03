@@ -18,7 +18,7 @@ import Show from "@/components/home-personal/Show";
 import Testimonials from "@/components/home-personal/Testimonials";
 
 export const metadata = {
-  title: "webfolio",
+  title: "Novo study",
   icons: {
     icon: "/assets/imgs/favicon.ico",
     shortcut: "/assets/imgs/favicon.ico",
