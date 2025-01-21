@@ -2,8 +2,8 @@ import React from "react";
 
 function Services() {
   return (
-    <section className="services-clas">
-      <div className="container section-padding bord-bottom-grd pt-0">
+    <section className="services-clas pb-0" id="cost">
+      <div className="container section-padding pt-0 pb-0">
         <div className="sec-head mb-80">
           <div className="d-flex align-items-center">
             <div>
@@ -36,7 +36,11 @@ function Services() {
                 </h5>
               </div>
               <div className="vi-more mt-40">
-                <a href="/page-services" className="butn butn-sm butn-bord radius-30">
+                <a
+                  target="_blank"
+                  href="https://t.me/novms"
+                  className="butn butn-sm butn-bord radius-30"
+                >
                   <span>Записаться</span>
                 </a>
               </div>
@@ -61,7 +65,11 @@ function Services() {
                 </h5>
               </div>
               <div className="vi-more mt-40">
-                <a href="/page-services" className="butn butn-sm butn-bord radius-30">
+                <a
+                  target="_blank"
+                  href="https://t.me/novms"
+                  className="butn butn-sm butn-bord radius-30"
+                >
                   <span>Записаться</span>
                 </a>
               </div>
@@ -85,12 +93,21 @@ function Services() {
                 </h5>
               </div>
               <div className="vi-more mt-40">
-                <a href="/page-services" className="butn butn-sm butn-bord radius-30">
+                <a
+                  target="_blank"
+                  href="https://t.me/novms"
+                  className="butn butn-sm butn-bord radius-30"
+                >
                   <span>Записаться</span>
                 </a>
               </div>
             </div>
           </div>
+        </div>
+      </div>
+      <div className="sec-bottom mt-100">
+        <div className="main-bg d-flex align-items-center">
+          <h6 className="fz-14 fw-400 main-color">Скидки на покупку нескольких занятий</h6>
         </div>
       </div>
     </section>

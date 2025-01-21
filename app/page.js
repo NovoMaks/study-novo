@@ -35,7 +35,6 @@ export default function Home() {
   return (
     <body className="home-personal">
       <LoadingScreen />
-      <Cursor />
       <ProgressScroll />
       <Lines />
       <Navbar />

@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="clean-footer crev">
+    <footer className="clean-footer crev" id="contacts">
       <div className="container pb-40 pt-40 ontop">
         <div className="row justify-content-between">
           <div className="col-lg-2">
@@ -14,9 +14,9 @@ function Footer() {
             <div className="column md-mb50">
               <h6 className="sub-title mb-30">Контакты</h6>
               <h6 className="mt-30 mb-15">
-                <a href="#0">no.ms@ya.ru</a>
+                <a href="mailto:no.ms@ya.ru">no.ms@ya.ru</a>
               </h6>
-              <a href="#0" className="underline">
+              <a href="tel:+79017477053" className="underline">
                 <span className="fz-22 main-color">+7 (901) 747 70 53</span>
               </a>
             </div>
@@ -26,16 +26,16 @@ function Footer() {
             <div className="column subscribe-minimal">
               <ul className="rest social-icon d-flex align-items-center">
                 <li className="hover-this cursor-pointer">
-                  <a href="#0" className="hover-anim">
-                    <i className="fab fa-facebook-f"></i>
+                  <a target="_blank" href="https://t.me/maksim_novo" className="hover-anim">
+                    <i className="fab fa-telegram"></i>
                   </a>
                 </li>
                 <li className="hover-this cursor-pointer ml-10">
-                  <a href="#0" className="hover-anim">
-                    <i className="fab fa-dribbble"></i>
+                  <a target="_blank" href="https://vk.com/novo_ms" className="hover-anim">
+                    <i className="fab fa-vk"></i>
                   </a>
                 </li>
-                <li className="hover-this cursor-pointer ml-10">
+                {/* <li className="hover-this cursor-pointer ml-10">
                   <a href="#0" className="hover-anim">
                     <i className="fab fa-linkedin-in"></i>
                   </a>
@@ -44,7 +44,7 @@ function Footer() {
                   <a href="#0" className="hover-anim">
                     <i className="fab fa-instagram"></i>
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>

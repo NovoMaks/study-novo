@@ -49,46 +49,50 @@ function Navbar() {
         >
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link" href="/page-contact">
+              <a className="nav-link" href="#about" onClick={handleToggleNav}>
                 <span className="rolling-text">Обо мне</span>
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/page-contact">
-                <span className="rolling-text">План обучения</span>
+              <a className="nav-link" href="#included" onClick={handleToggleNav}>
+                <span className="rolling-text">Что входит</span>
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/page-contact">
+              <a className="nav-link" href="#whom" onClick={handleToggleNav}>
                 <span className="rolling-text">Для кого</span>
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/page-contact">
+              <a className="nav-link" href="#cost" onClick={handleToggleNav}>
                 <span className="rolling-text">Стоимость</span>
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/page-contact">
+              <a className="nav-link" href="#education" onClick={handleToggleNav}>
                 <span className="rolling-text">Образование</span>
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/page-contact">
+              <a className="nav-link" href="#review" onClick={handleToggleNav}>
                 <span className="rolling-text">Отзывы</span>
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/page-contact">
-                <span className="rolling-text">Запись</span>
+              <a className="nav-link" href="#contacts" onClick={handleToggleNav}>
+                <span className="rolling-text">Контакты</span>
               </a>
             </li>
           </ul>
         </div>
 
         <div className="contact-button">
-          <a href="/page-contact" className="butn butn-sm butn-bg main-colorbg radius-5">
-            <span className="text">Написать мне</span>
+          <a
+            target="_blank"
+            href="https://t.me/novms"
+            className="butn butn-sm butn-bg main-colorbg radius-5"
+          >
+            <span className="text">Написать</span>
           </a>
         </div>
       </div>

@@ -1,6 +1,6 @@
 function Show() {
   return (
-    <section className="respo section-padding main-bg bord-bottom-grd">
+    <section className="respo section-padding main-bg bord-bottom-grd" id="education">
       <div className="container">
         <div className="row">
           <div className="col-lg-6">

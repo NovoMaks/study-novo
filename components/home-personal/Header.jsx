@@ -44,8 +44,12 @@ function Header() {
                     <p>Стану вашим проводником в мир веб-разработки</p>
                   </div>
                   <div className="d-flex align-items-center mt-60">
-                    <a href="/page-contact" className="butn butn-md butn-bord radius-30">
-                      <span className="text">Написать мне</span>
+                    <a
+                      target="_blank"
+                      href="https://t.me/novms"
+                      className="butn butn-md butn-bord radius-30"
+                    >
+                      <span className="text">Написать</span>
                     </a>
                     <div className="icon-img-60 ml-20">
                       <img src="/assets/imgs/icon-img/arrow-down-big.png" alt="" />
