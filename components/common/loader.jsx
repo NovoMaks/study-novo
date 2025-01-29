@@ -41,13 +41,14 @@ function LoadingScreen() {
 
       <div className="loader-wrap-heading">
         <div className="load-text">
-          <span>С</span>
-          <span>е</span>
+          <span>З</span>
+          <span>а</span>
+          <span>г</span>
+          <span>р</span>
+          <span>у</span>
+          <span>з</span>
           <span>к</span>
-          <span>у</span>
-          <span>н</span>
-          <span>д</span>
-          <span>у</span>
+          <span>а</span>
         </div>
       </div>
     </div>

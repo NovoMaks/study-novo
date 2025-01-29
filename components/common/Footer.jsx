@@ -25,12 +25,12 @@ function Footer() {
           <div className="col-lg-3">
             <div className="column subscribe-minimal">
               <ul className="rest social-icon d-flex align-items-center">
-                <li className="hover-this cursor-pointer">
+                <li className="">
                   <a target="_blank" href="https://t.me/maksim_novo" className="hover-anim">
                     <i className="fab fa-telegram"></i>
                   </a>
                 </li>
-                <li className="hover-this cursor-pointer ml-10">
+                <li className="ml-10">
                   <a target="_blank" href="https://vk.com/novo_ms" className="hover-anim">
                     <i className="fab fa-vk"></i>
                   </a>
