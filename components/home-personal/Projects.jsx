@@ -44,7 +44,7 @@ function Projects() {
                 <img src="/assets/imgs/works/4/22.jpg" alt="" />
                 <div className="cont">
                   <h5>
-                    <a href="/project-details">Игра "Flappy Bird"</a>
+                    <a href="/project-details">Игра Flappy Bird</a>
                   </h5>
                   <p>
                     <a href="/project-details">Scratch</a>
@@ -74,7 +74,7 @@ function Projects() {
                 <img src="/assets/imgs/works/4/44.jpg" alt="" />
                 <div className="cont">
                   <h5>
-                    <a href="/project-details">Приложение "Калькулятор"</a>
+                    <a href="/project-details">Приложение Калькулятор</a>
                   </h5>
                   <p>
                     <a href="/project-details">Scratch</a>
@@ -89,7 +89,7 @@ function Projects() {
                 <img src="/assets/imgs/works/4/55.jpg" alt="" />
                 <div className="cont">
                   <h5>
-                    <a href="/project-details">Игра "Танчики"</a>
+                    <a href="/project-details">Игра Танчики</a>
                   </h5>
                   <p>
                     <a href="/project-details">Scratch</a>
