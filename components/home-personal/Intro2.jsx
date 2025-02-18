@@ -13,7 +13,7 @@ function Intro2() {
     event.currentTarget.nextElementSibling.classList.add("active");
   }
   return (
-    <section className="intro-accord" id="whom">
+    <section className="intro-accord pb-0 pt-80" id="whom">
       <div className="container ontop">
         <div className="row xlg-marg">
           <div className="col-lg-6">
@@ -24,47 +24,45 @@ function Intro2() {
           <div className="col-lg-6 valign">
             <div>
               <div className="sec-head mb-50">
-                <h6 className="sub-title main-color mb-15">Кому подойдет</h6>
-                <h3>
-                  Смело пиши мне, <br /> если ты
-                </h3>
+                <h6 className="sub-title main-color mb-15">Вопросы</h6>
+                <h3>Чаще всего спрашивают</h3>
               </div>
               <div className="accordion bord">
                 <div className="item active wow fadeInUp" data-wow-delay=".1s">
                   <div onClick={openAccordion} className="title">
-                    <h6>Учишься в старших классах</h6>
+                    <h6>Что нужно для занятий?</h6>
                     <span className="ico ti-plus"></span>
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                      Глубокое изучение web-технологий обычно не входит в школьную программу. После
-                      занятий со мной, окончив школу, ты сможешь попасть на стажировку в крупную
-                      компанию или начать работать на фрилансе, параллельно обучаясь в университете.
+                      Ребёнку нужен ноутбук. Если у вас нет своего устройства, то аренда
+                      обговаривается отдельно и зависит от площадки.
                     </p>
                   </div>
                 </div>
 
                 <div className="item wow fadeInUp" data-wow-delay=".3s">
                   <div onClick={openAccordion} className="title">
-                    <h6>Хочешь сменить сферу деятельности</h6>
+                    <h6>Есть ли домашние задания?</h6>
                     <span className="ico ti-plus"></span>
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                      Я построю индивидуальный план для максимально эффективного обучения новой
-                      профессии и буду сопровождать тебя до успешного устройства на работу.
+                      Да, я даю небольшие домашние задания, чтобы дети могли закрепить материал.
+                      Однако задания всегда посильные и интересные, чтобы не перегружать ребёнка.
                     </p>
                   </div>
                 </div>
 
                 <div className="item wow fadeInUp" data-wow-delay=".5s">
                   <div onClick={openAccordion} className="title">
-                    <h6>Работаешь Junior-разработчиком</h6>
+                    <h6>Где проходит занятие?</h6>
                     <span className="ico ti-plus"></span>
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                      Разберу рабочие вопросы, дам консультацию в каком направлении лучше двигаться.
+                      Площадка может менятся, и для каждой группы ее нужно уточнять отдельно. Всегда
+                      оборудована экраном или проектором и большим рабочим столом.
                     </p>
                   </div>
                 </div>

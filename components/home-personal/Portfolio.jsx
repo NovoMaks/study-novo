@@ -55,7 +55,7 @@ function Portfolio() {
               <span className="sub-title main-color mb-5">Наш план</span>
               <h3 className="fw-600 fz-50 text-u d-rotate wow">
                 <span className="rotate-text">
-                  Что входит в <span className="fw-200">обучение.</span>
+                  Как проходит <span className="fw-200">обучение.</span>
                 </span>
               </h3>
             </div>
@@ -70,42 +70,19 @@ function Portfolio() {
                     <div className="mb-15">
                       <span className="tag">Бесплатно</span>
                     </div>
-                    <h4>Знакомство</h4>
+                    <h4>Онлайн знакомство</h4>
                   </div>
                   <div>
                     <p>
-                      На первой встрече мы пообщаемся и определимся с{" "}
-                      <span className="main-color">целями</span>. После этого я составлю{" "}
-                      <span className="main-color">план обучения</span> и согласую{" "}
-                      <span className="main-color">расписание</span>.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-7">
-                <div className="img">
-                  <img src="/assets/imgs/works/1/1.png" alt="" />
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="card-item sub-bg">
-            <div className="row">
-              <div className="col-lg-5">
-                <div className="cont">
-                  <div>
-                    <div className="mb-15">
-                      <span className="tag">Теория</span>
-                      <span className="tag">Свой проект</span>
-                    </div>
-                    <h4>Онлайн занятия</h4>
-                  </div>
-                  <div>
-                    <p>
-                      Каждый блок будет включать занятия с{" "}
-                      <span className="main-color">теоретической частью</span> и написание
-                      <span className="main-color">собственного проекта</span> по техническому
-                      заданию и дизайну.
+                      Первая встреча со всеми учениками проходит{" "}
+                      <span className="main-color">индивидуально</span> онлайн. Эта встреча{" "}
+                      <span className="main-color">бесплатна</span> и нужна, чтобы мы познакомились
+                      получше.
+                      <br />
+                      Уже на первой встрече мы напишем{" "}
+                      <span className="main-color">свой мини-проект</span>, который поможет понять
+                      ребенку интересен ли ему формат обучения, а мне оценить уровень знаний
+                      ученика.
                     </p>
                   </div>
                 </div>
@@ -123,16 +100,80 @@ function Portfolio() {
                 <div className="cont">
                   <div>
                     <div className="mb-15">
-                      <span className="tag">Бесплатно</span>
+                      <span className="tag">Индивидуально</span>
+                    </div>
+                    <h4>Формирование группы</h4>
+                  </div>
+                  <div>
+                    <p>
+                      Группа формируется{" "}
+                      <span className="main-color">на основании тех результатов</span>, которые были
+                      получены на пробном онлайн-занятии. В среднем в группе учатся{" "}
+                      <span className="main-color">5-7 человек</span>, что позволяет уделить
+                      необходимое время каждому и ответить на все вопросы.
+                      <br />
+                      Расписание состовляется в зависимости от{" "}
+                      <span className="main-color">пожеланий всех учеников</span>. И только после
+                      этого заключается{" "}
+                      <span className="main-color">договор и производится оплата</span>.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-7">
+                <div className="img">
+                  <img src="/assets/imgs/works/1/1.png" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="card-item sub-bg">
+            <div className="row">
+              <div className="col-lg-5">
+                <div className="cont">
+                  <div>
+                    <div className="mb-15">
+                      <span className="tag">Командная работа</span>
+                    </div>
+                    <h4>Обучение</h4>
+                  </div>
+                  <div>
+                    <p>
+                      Моя цель - это не только научить программировать, но и познакомить ученика со
+                      всеми <span className="main-color">этапами проектной деятельности</span>.
+                      <br />
+                      Работа над каждым проектом максимально приближена к тому, как это проходит на
+                      <span className="main-color">реальной работе разработчика</span>. Большое
+                      внимание уделяется <span className="main-color">работе в команде</span>, а
+                      результатом станет{" "}
+                      <span className="main-color">собственная игра, приложение или сайт</span>.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-7">
+                <div className="img">
+                  <img src="/assets/imgs/works/1/5.png" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="card-item sub-bg">
+            <div className="row">
+              <div className="col-lg-5">
+                <div className="cont">
+                  <div>
+                    <div className="mb-15">
                       <span className="tag">24/7</span>
                     </div>
                     <h4>Общение в чате</h4>
                   </div>
                   <div>
                     <p>
-                      Всегда можешь написать мне{" "}
-                      <span className="main-color">по вопросам разработки</span>, или чтобы{" "}
-                      <span className="main-color">просто пообщаться</span>.
+                      У нас будет общий чат на всю команду, где мы сможем обсуждать свой проект,
+                      делиться своими{" "}
+                      <span className="main-color">предложениями и наработками</span>, задавать{" "}
+                      <span className="main-color">любые вопросы</span> по разработке.
                     </p>
                   </div>
                 </div>
@@ -178,22 +219,24 @@ function Portfolio() {
                 <div className="cont">
                   <div>
                     <div className="mb-15">
-                      <span className="tag">Бесплатно</span>
+                      <span className="tag">Есть чем гордиться</span>
                     </div>
-                    <h4>Наставничество после обучения</h4>
+                    <h4>Защита своего проекта</h4>
                   </div>
                   <div>
                     <p>
-                      После окончания блока обучения ты можешь рассчитывать на мою{" "}
-                      <span className="main-color">поддержку</span>, я{" "}
-                      <span className="main-color">всегда на связи</span>.
+                      В конце каждого курса мы делаем{" "}
+                      <span className="main-color">презентацию нашего продукта</span>, где каждый
+                      ученик расскажет о своей работе и продемонстрирует ее в реальном времени. Это
+                      развивает привычку{" "}
+                      <span className="main-color">доводить дела до завершения</span>.
                     </p>
                   </div>
                 </div>
               </div>
               <div className="col-lg-7">
                 <div className="img">
-                  <img src="/assets/imgs/works/1/5.png" alt="" />
+                  <img src="/assets/imgs/works/1/7.jpg" alt="" />
                 </div>
               </div>
             </div>

@@ -37,11 +37,11 @@ function Header() {
               <h1 className="fw-700 mb-10">
                 Максим <span className="main-color">Новосельцев</span>
               </h1>
-              <h3>Веб-разработчик и наставник</h3>
+              <h3>Разработчик и наставник</h3>
               <div className="row">
                 <div className="col-lg-9">
                   <div className="text mt-30">
-                    <p>Стану вашим проводником в мир веб-разработки</p>
+                    <p>Стану проводником в мир программирования для детей и подростков</p>
                   </div>
                   <div className="d-flex align-items-center mt-60">
                     <a

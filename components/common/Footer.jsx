@@ -52,12 +52,7 @@ function Footer() {
         <div className="pt-30 pb-30 mt-80 bord-thin-top">
           <div className="text-center">
             <p className="fz-14">
-              © 2024 Novo-study by{" "}
-              <span className="underline main-color">
-                <a href="https://themeforest.net/user/UiCamp" target="_blank">
-                  Novo-studio
-                </a>
-              </span>
+              © 2024 Novo-study by <span className="underline main-color">Novo-studio</span>
             </p>
           </div>
         </div>

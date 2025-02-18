@@ -14,8 +14,10 @@ import About from "@/components/home-personal/About";
 import Services from "@/components/home-personal/Services";
 import Portfolio from "@/components/home-personal/Portfolio";
 import Intro2 from "@/components/home-personal/Intro2";
+import Intro from "@/components/home-personal/Intro";
 import Show from "@/components/home-personal/Show";
 import Testimonials from "@/components/home-personal/Testimonials";
+import Projects from "@/components/home-personal/Projects";
 
 export const metadata = {
   title: "Новосельцев Максим",
@@ -45,11 +47,13 @@ export default function Home() {
             <Marq />
             <About />
             <Portfolio />
-            <Intro2 />
+            <Intro />
+            <Projects />
             <Marq2 />
             <Services />
             <Show />
             <Testimonials />
+            <Intro2 />
             <Marq2 />
           </main>
           <Footer />

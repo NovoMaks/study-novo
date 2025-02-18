@@ -1,18 +1,18 @@
-import React from 'react';
+import React from "react";
 
 function Marq() {
   const items = [
-    'JavaScript',
-    'HTML',
-    'CSS',
-    'React',
-    'Git',
-    'NodeJS',
-    'MobX',
-    'Jest',
-    'TypeScript',
-    'NextJS',
-    'SQL'
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "React",
+    "Git",
+    "NodeJS",
+    "TypeScript",
+    "NextJS",
+    "SQL",
+    "Scratch",
+    "Python",
   ];
   return (
     <section className="marq">
