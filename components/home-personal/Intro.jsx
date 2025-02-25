@@ -17,7 +17,7 @@ function Intro() {
     return () => window.removeEventListener("scroll", handleShowProgressValues);
   }, []);
   return (
-    <section className="team-single section-padding pt-0">
+    <section className="team-single section-padding pt-0" id="when">
       <div className="container">
         <div className="sec-head mb-80">
           <div className="d-flex align-items-center">

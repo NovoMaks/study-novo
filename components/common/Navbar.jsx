@@ -54,23 +54,23 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#included" onClick={handleToggleNav}>
-                <span className="rolling-text">Что входит</span>
+              <a className="nav-link" href="#how" onClick={handleToggleNav}>
+                <span className="rolling-text">Как проходит</span>
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#whom" onClick={handleToggleNav}>
-                <span className="rolling-text">Для кого</span>
+              <a className="nav-link" href="#when" onClick={handleToggleNav}>
+                <span className="rolling-text">Когда</span>
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#cost" onClick={handleToggleNav}>
-                <span className="rolling-text">Стоимость</span>
+              <a className="nav-link" href="#project" onClick={handleToggleNav}>
+                <span className="rolling-text">Проекты</span>
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#education" onClick={handleToggleNav}>
-                <span className="rolling-text">Образование</span>
+              <a className="nav-link" href="#class" onClick={handleToggleNav}>
+                <span className="rolling-text">Курсы</span>
               </a>
             </li>
             <li className="nav-item">

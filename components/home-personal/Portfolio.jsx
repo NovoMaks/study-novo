@@ -47,7 +47,7 @@ function Portfolio() {
     };
   }, []);
   return (
-    <section className="work-card section-padding pt-0" id="included">
+    <section className="work-card section-padding pt-0" id="how">
       <div className="container">
         <div className="sec-head mb-80">
           <div className="d-flex align-items-center">

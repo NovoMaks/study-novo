@@ -6,7 +6,7 @@ function Projects() {
     initIsotope2();
   }, []);
   return (
-    <section className="work-minimal section-padding pt-40 pb-0">
+    <section className="work-minimal section-padding pt-40 pb-0" id="project">
       <div className="container">
         <div className="row mb-80">
           <div className="col-lg-4">
@@ -25,14 +25,10 @@ function Projects() {
                 <img src="/assets/imgs/works/4/11.jpg" alt="" />
                 <div className="cont inline d-flex align-items-center">
                   <div>
-                    <h5>
-                      <a href="/project-details">Сайт на Тильда</a>
-                    </h5>
+                    <h5>Сайт на Тильда</h5>
                   </div>
                   <div className="ml-auto">
-                    <p>
-                      <a href="/project-details">Веб-разработка</a>
-                    </p>
+                    <p>Веб-разработка</p>
                   </div>
                 </div>
               </div>
@@ -43,12 +39,8 @@ function Projects() {
               <div className="img">
                 <img src="/assets/imgs/works/4/22.jpg" alt="" />
                 <div className="cont">
-                  <h5>
-                    <a href="/project-details">Игра Flappy Bird</a>
-                  </h5>
-                  <p>
-                    <a href="/project-details">Scratch</a>
-                  </p>
+                  <h5>Игра Flappy Bird</h5>
+                  <p>Scratch</p>
                 </div>
               </div>
             </div>
@@ -58,12 +50,8 @@ function Projects() {
               <div className="img">
                 <img src="/assets/imgs/works/4/33.jpg" alt="" />
                 <div className="cont">
-                  <h5>
-                    <a href="/project-details">Сайт на HTML/CSS/JS</a>
-                  </h5>
-                  <p>
-                    <a href="/project-details">Веб-разработка</a>
-                  </p>
+                  <h5>Сайт на HTML/CSS/JS</h5>
+                  <p>Веб-разработка</p>
                 </div>
               </div>
             </div>
@@ -71,14 +59,10 @@ function Projects() {
           <div className="col-lg-3 items width2 design">
             <div className="item mt-10">
               <div className="img">
-                <img src="/assets/imgs/works/4/44.jpg" alt="" />
+                <img src="/assets/imgs/works/4/44.png" alt="" />
                 <div className="cont">
-                  <h5>
-                    <a href="/project-details">Приложение Калькулятор</a>
-                  </h5>
-                  <p>
-                    <a href="/project-details">Scratch</a>
-                  </p>
+                  <h5>Сайт на HTML/CSS/JS</h5>
+                  <p>Веб-разработка</p>
                 </div>
               </div>
             </div>
@@ -88,12 +72,8 @@ function Projects() {
               <div className="img">
                 <img src="/assets/imgs/works/4/55.jpg" alt="" />
                 <div className="cont">
-                  <h5>
-                    <a href="/project-details">Игра Танчики</a>
-                  </h5>
-                  <p>
-                    <a href="/project-details">Scratch</a>
-                  </p>
+                  <h5>Игра Танчики</h5>
+                  <p>Scratch</p>
                 </div>
               </div>
             </div>
@@ -104,33 +84,25 @@ function Projects() {
                 <img src="/assets/imgs/works/4/66.jpg" alt="" />
                 <div className="cont inline d-flex align-items-center">
                   <div>
-                    <h5>
-                      <a href="/project-details">Сайт на HTML/CSS/JS</a>
-                    </h5>
+                    <h5>Сайт на HTML/CSS/JS</h5>
                   </div>
                   <div className="ml-auto">
-                    <p>
-                      <a href="/project-details">Веб-разработка</a>
-                    </p>
+                    <p>Веб-разработка</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div className="col-lg-6 items development">
+          <div className="col-lg-3 items design">
             <div className="item mt-10">
               <div className="img">
-                <img src="/assets/imgs/works/4/88.png" alt="" />
+                <img src="/assets/imgs/works/4/88.jpg" alt="" />
                 <div className="cont inline d-flex align-items-center">
                   <div>
-                    <h5>
-                      <a href="/project-details">Сайт на HTML/CSS/JS</a>
-                    </h5>
+                    <h5>Сайт на HTML/CSS/JS</h5>
                   </div>
                   <div className="ml-auto">
-                    <p>
-                      <a href="/project-details">Веб-разработка</a>
-                    </p>
+                    <p>Веб-разработка</p>
                   </div>
                 </div>
               </div>
