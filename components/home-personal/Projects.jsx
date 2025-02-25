@@ -22,7 +22,7 @@ function Projects() {
           <div className="col-lg-6 items design">
             <div className="item mt-10">
               <div className="img">
-                <img src="/assets/imgs/works/4/11.png" alt="" />
+                <img src="/assets/imgs/works/4/11.jpg" alt="" />
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
