@@ -82,18 +82,6 @@ function Testimonials() {
                     </p>
                   </div>
                 </div>
-                <div className="info">
-                  <div className="d-flex align-items-center">
-                    <div>
-                      <div className="img fit-img">
-                        <img src="/assets/imgs/testim/1.png" alt="" />
-                      </div>
-                    </div>
-                    <div className="ml-20">
-                      <span className="p-color opacity-8 fz-15 mt-5">Анна Смирнова</span>
-                    </div>
-                  </div>
-                </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
@@ -105,18 +93,6 @@ function Testimonials() {
                       нам свои проекты. Очень нравится, что занятия проходят в игровой форме, но при
                       этом дети учатся серьёзным вещам. Спасибо за такой подход!”
                     </p>
-                  </div>
-                </div>
-                <div className="info">
-                  <div className="d-flex align-items-center">
-                    <div>
-                      <div className="img fit-img">
-                        <img src="/assets/imgs/testim/1.png" alt="" />
-                      </div>
-                    </div>
-                    <div className="ml-20">
-                      <span className="p-color opacity-8 fz-15 mt-5">Артём Белов</span>
-                    </div>
                   </div>
                 </div>
               </div>
@@ -131,18 +107,6 @@ function Testimonials() {
                     </p>
                   </div>
                 </div>
-                <div className="info">
-                  <div className="d-flex align-items-center">
-                    <div>
-                      <div className="img fit-img">
-                        <img src="/assets/imgs/testim/1.png" alt="" />
-                      </div>
-                    </div>
-                    <div className="ml-20">
-                      <span className="p-color opacity-8 fz-15 mt-5">София Козлова</span>
-                    </div>
-                  </div>
-                </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
@@ -154,18 +118,6 @@ function Testimonials() {
                       объясняют всё очень доступно, а главное — ребёнок действительно увлечён.
                       Спасибо за такие интересные и полезные занятия”
                     </p>
-                  </div>
-                </div>
-                <div className="info">
-                  <div className="d-flex align-items-center">
-                    <div>
-                      <div className="img fit-img">
-                        <img src="/assets/imgs/testim/1.png" alt="" />
-                      </div>
-                    </div>
-                    <div className="ml-20">
-                      <span className="p-color opacity-8 fz-15 mt-5">Роман Федотов</span>
-                    </div>
                   </div>
                 </div>
               </div>

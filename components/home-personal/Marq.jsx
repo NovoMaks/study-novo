@@ -1,19 +1,7 @@
 import React from "react";
 
 function Marq() {
-  const items = [
-    "JavaScript",
-    "HTML",
-    "CSS",
-    "React",
-    "Git",
-    "NodeJS",
-    "TypeScript",
-    "NextJS",
-    "SQL",
-    "Scratch",
-    "Python",
-  ];
+  const items = ["Веб-разработка", "Основы программирования", "Компьютерная грамотность"];
   return (
     <section className="marq">
       <div className="main-marq lrg sub-bg pt-20 pb-20 shadow-off">

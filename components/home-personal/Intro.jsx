@@ -59,16 +59,16 @@ function Intro() {
                     <span className="sub-title mr-15">Количество занятий :</span> 10
                   </li>
                   <li className="mb-25 fz-18">
-                    <span className="sub-title mr-15">Продолжительность :</span> 90 минут
+                    <span className="sub-title mr-15">Длит. занятия :</span> 90 мин
                   </li>
                   <li className="mb-25 fz-18">
                     <span className="sub-title mr-15">Старт :</span> 01.05.2025
                   </li>
                   <li className="fz-18">
-                    <span className="sub-title mr-15">Стоимость :</span>{" "}
-                    <span className="main-color">10 000 ₽</span>
+                    <span className="main-color">1000 ₽</span> / занятие
                   </li>
                 </ul>
+                <p className="text fz-14">Скидка на оплату всех занятий разом</p>
               </div>
             </div>
           </div>
@@ -81,9 +81,9 @@ function Intro() {
               <p>Занятия будут проходить в субботу и воскресенье.</p>
               <h4 className="mb-15 mt-15">Чему научимся</h4>
               <p>
-                <span className="main-color">-</span> Мы познакомимся с блочными инструментами,
-                такими как Tilda, изучим HTML, CSS, JavaScript, а также рассмотрим основные шаги
-                создания сайта: от планирования и дизайн-макета до верстки и разработки.
+                <span className="main-color">-</span> Мы изучим основы HTML, CSS, JavaScript, а
+                также рассмотрим основные шаги создания сайта: от планирования и дизайн-макета до
+                верстки и разработки. Познакомимся с блочными инструментами, такими как Tilda.
               </p>
               <p>
                 <span className="main-color">-</span> Разработаем полноценный проект, который ляжет
@@ -103,19 +103,25 @@ function Intro() {
           <div className="col-lg-5">
             <div className="skills-box">
               <div className="skill-item mb-30">
-                <h5 className="sub-title mb-15">Tilda</h5>
-                <div className="skill-progress">
-                  <div className="progres" data-value="50%"></div>
-                </div>
-              </div>
-              <div className="skill-item mb-30">
-                <h5 className="sub-title mb-15">HTML/CSS/JS</h5>
+                <h5 className="sub-title mb-15">HTML/CSS</h5>
                 <div className="skill-progress">
                   <div className="progres" data-value="60%"></div>
                 </div>
               </div>
-              <div className="skill-item">
+              <div className="skill-item mb-30">
+                <h5 className="sub-title mb-15">JavaScript</h5>
+                <div className="skill-progress">
+                  <div className="progres" data-value="30%"></div>
+                </div>
+              </div>
+              <div className="skill-item mb-30">
                 <h5 className="sub-title mb-15">Figma</h5>
+                <div className="skill-progress">
+                  <div className="progres" data-value="30%"></div>
+                </div>
+              </div>
+              <div className="skill-item">
+                <h5 className="sub-title mb-15">Tilda</h5>
                 <div className="skill-progress">
                   <div className="progres" data-value="25%"></div>
                 </div>

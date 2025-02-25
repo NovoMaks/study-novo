@@ -7419,10 +7419,10 @@ footer.clean-footer.crev .circle-blur {
 .team-single .bord:before {
   content: "";
   position: absolute;
-  top: 30px;
-  left: 30px;
-  right: 30px;
-  bottom: 30px;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
   border: 1px solid rgba(255, 255, 255, 0.1);
   z-index: -1;
 }
@@ -7430,10 +7430,10 @@ footer.clean-footer.crev .circle-blur {
 .team-single .bord:after {
   content: "";
   position: absolute;
-  top: 40px;
-  left: 40px;
-  right: 40px;
-  bottom: 40px;
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
   border: 1px solid rgba(255, 255, 255, 0.1);
   z-index: -1;
 }
