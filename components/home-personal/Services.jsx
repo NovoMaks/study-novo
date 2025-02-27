@@ -20,19 +20,19 @@ function Services() {
           <div className="col-lg-4">
             <div className="item sub-bg md-mb30">
               <div className="icon-img-60 opacity-5 mb-40">
-                <img src="/assets/imgs/serv-icons/3.png" alt="" />
+                <img src="/assets/imgs/serv-icons/5.png" alt="" />
               </div>
-              <h5>Основы веб-разработки</h5>
+              <h5>Визуальное программирование</h5>
               <div className="text mt-40 mb-40">
                 <p>
-                  Мы познакомимся с блочными инструментами, такими как Tilda, изучим HTML, CSS,
-                  JavaScript, а также рассмотрим основные шаги создания сайта: от планирования и
-                  дизайн-макета до верстки и разработки.
+                  Осваиваем базовые принципы программирования с помощью детского языка Scratch и
+                  разрабатываем креативные проекты — от элементарной анимации до полноценных игр и
+                  мультфильмов.
                 </p>
               </div>
               <div className="price">
                 <h5>
-                  <span className="main-color">10-14</span> лет
+                  <span className="main-color">8-10</span> лет
                 </h5>
               </div>
               <div className="vi-more mt-40">
@@ -49,19 +49,19 @@ function Services() {
           <div className="col-lg-4">
             <div className="item sub-bg md-mb30">
               <div className="icon-img-60 opacity-5 mb-40">
-                <img src="/assets/imgs/serv-icons/4.png" alt="" />
+                <img src="/assets/imgs/serv-icons/3.png" alt="" />
               </div>
-              <h5>Фронтенд разработчик</h5>
+              <h5>Веб-разработка</h5>
               <div className="text mt-40 mb-40">
                 <p>
-                  Мы не просто учимся писать код, но и создавать стильные и удобные веб-приложения:
-                  разрабатывать дизайн, продумывать пользовательские сценарии и размещать готовый
-                  проект на сервере.
+                  Мы изучим HTML, CSS, JavaScript, рассмотрим основные шаги создания сайта: от
+                  планирования и дизайн-макета до верстки и разработки. Познакомимся с блочными
+                  инструментами.
                 </p>
               </div>
               <div className="price">
                 <h5>
-                  <span className="main-color">15-18</span> лет
+                  <span className="main-color">10-18</span> лет
                 </h5>
               </div>
               <div className="vi-more mt-40">
@@ -78,19 +78,19 @@ function Services() {
           <div className="col-lg-4">
             <div className="item sub-bg">
               <div className="icon-img-60 opacity-5 mb-40">
-                <img src="/assets/imgs/serv-icons/5.png" alt="" />
+                <img src="/assets/imgs/serv-icons/4.png" alt="" />
               </div>
-              <h5>Визуальное программирование</h5>
+              <h5>Индивидуальные занятия</h5>
               <div className="text mt-40 mb-40">
                 <p>
-                  Осваиваем базовые принципы программирования с помощью детского языка Scratch и
-                  разрабатываем креативные проекты — от элементарной анимации до полноценных игр и
-                  мультфильмов.
+                  Изучим разработку приложений, веб-дизайн и многое другое в удобном для вас формате
+                  (онлайн или оффлайн). Подходит как для начинающих, так и для тех, кто хочет
+                  углубить свои знания.
                 </p>
               </div>
               <div className="price">
                 <h5>
-                  <span className="main-color">8-10</span> лет
+                  <span className="main-color">от 10</span> лет
                 </h5>
               </div>
               <div className="vi-more mt-40">

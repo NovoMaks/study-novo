@@ -53,7 +53,7 @@ function Intro() {
               <div className="info mt-30">
                 <ul className="rest">
                   <li className="mb-25 fz-18">
-                    <span className="sub-title mr-15">Возраст :</span> 10-14 лет
+                    <span className="sub-title mr-15">Возраст :</span> 12-14 лет
                   </li>
                   <li className="mb-25 fz-18">
                     <span className="sub-title mr-15">Количество занятий :</span> 10
