@@ -19,6 +19,7 @@ function Footer() {
               <a href="tel:+79017477053" className="underline">
                 <span className="fz-22 main-color">+7 (901) 747 70 53</span>
               </a>
+              <h6 className="mt-30">ИНН 181002018979</h6>
             </div>
           </div>
 
@@ -52,7 +53,8 @@ function Footer() {
         <div className="pt-30 pb-30 mt-80 bord-thin-top">
           <div className="text-center">
             <p className="fz-14">
-              © 2024 Novo-study by <span className="underline main-color">Novo-studio</span>
+              © {new Date().getFullYear()} IT Novo-studio by{" "}
+              <span className="underline main-color">Novo-studio</span>
             </p>
           </div>
         </div>
