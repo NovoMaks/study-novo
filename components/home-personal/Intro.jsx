@@ -34,7 +34,7 @@ function Intro() {
         <div className="row md-marg justify-content-around bord">
           <div className="col-lg-5">
             <div className="img md-mb50">
-              <img src="/assets/imgs/team/11.jpg" alt="" />
+              <img src="/assets/imgs/team/123.jpg" alt="" />
             </div>
           </div>
           <div className="col-lg-6 valign">
@@ -53,7 +53,7 @@ function Intro() {
               <div className="info mt-30">
                 <ul className="rest">
                   <li className="mb-25 fz-18">
-                    <span className="sub-title mr-15">Возраст :</span> 12-14 лет
+                    <span className="sub-title mr-15">Возраст :</span> 13-15 лет
                   </li>
                   <li className="mb-25 fz-18">
                     <span className="sub-title mr-15">Количество занятий :</span> 10
@@ -62,13 +62,18 @@ function Intro() {
                     <span className="sub-title mr-15">Длит. занятия :</span> 90 мин
                   </li>
                   <li className="mb-25 fz-18">
-                    <span className="sub-title mr-15">Старт :</span> 01.05.2025
-                  </li>
-                  <li className="fz-18">
-                    <span className="main-color">1000 ₽</span> / занятие
+                    <span className="sub-title mr-15">Старт :</span> ≈ 15.04.2025
                   </li>
                 </ul>
-                <p className="text fz-14">Скидка на оплату всех занятий разом</p>
+                <div className="vi-more mt-20">
+                  <a
+                    target="_blank"
+                    href="https://t.me/novms"
+                    className="butn butn-sm butn-bord radius-30"
+                  >
+                    <span>Узнать стоимость</span>
+                  </a>
+                </div>
               </div>
             </div>
           </div>
@@ -77,8 +82,8 @@ function Intro() {
           <div className="col-lg-6 valign">
             <div className="text md-mb50">
               <h4 className="mb-15">Где и когда проходит</h4>
-              <p>Коломна, ул.Октябрьской революции, 366/2 (просторное офисное помещение).</p>
-              <p>Занятия будут проходить в субботу и воскресенье.</p>
+              <p>Ул. Уманская, дом 3Д (просторный коворкинг на Шелковой фабрике).</p>
+              <p>Расписание составляется на основе пожеланий всех участников.</p>
               <h4 className="mb-15 mt-15">Чему научимся</h4>
               <p>
                 <span className="main-color">-</span> Мы изучим основы HTML, CSS, JavaScript, а
