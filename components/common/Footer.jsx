@@ -19,6 +19,7 @@ function Footer() {
               <a href="tel:+79017477053" className="underline">
                 <span className="fz-22 main-color">+7 (901) 747 70 53</span>
               </a>
+              <h6 className="mt-30">Новосельцев Максим Сергеевич</h6>
               <h6 className="mt-30">ИНН 181002018979</h6>
             </div>
           </div>
