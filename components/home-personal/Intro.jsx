@@ -88,11 +88,11 @@ function Intro() {
               <p>
                 <span className="main-color">-</span> Мы изучим основы HTML, CSS, JavaScript, а
                 также рассмотрим основные шаги создания сайта: от планирования и дизайн-макета до
-                верстки и разработки. Познакомимся с блочными инструментами, такими как Tilda.
+                верстки и разработки.
               </p>
               <p>
                 <span className="main-color">-</span> Разработаем полноценный проект, который ляжет
-                в основу портфолио веб-дизайнера и веб-разработчика
+                в основу портфолио веб-разработчика
               </p>
               <div className="vi-more mt-20">
                 <a
@@ -123,12 +123,6 @@ function Intro() {
                 <h5 className="sub-title mb-15">Figma</h5>
                 <div className="skill-progress">
                   <div className="progres" data-value="30%"></div>
-                </div>
-              </div>
-              <div className="skill-item">
-                <h5 className="sub-title mb-15">Tilda</h5>
-                <div className="skill-progress">
-                  <div className="progres" data-value="25%"></div>
                 </div>
               </div>
             </div>
